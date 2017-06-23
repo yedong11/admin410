@@ -1,0 +1,34 @@
+Body {
+	background-image:url(bg.jpg)
+}
+
+h1 {
+	color: #000000;
+	text-align: center;
+	font-family: Futura, “Trebuchet MS”, Aria;
+}
+
+th {
+	color: #000000;
+	font-family: Futura, “Trebuchet MS”, Aria;
+	font-size:larger;
+}
+
+th:hover {
+	background-color:lightgreen;
+}
+
+p {
+	font-family: Futura, “Trebuchet MS”, Aria;
+	font-size:large;
+	font-weight:bold;
+}
+
+h2 {
+	color: #000000;
+	font-family: Futura, “Trebuchet MS”, Aria;
+}
+
+td {
+	text-align: center;
+}
